@@ -13,8 +13,7 @@ javascript:if(lwe){lwe.stop()}else{var%20lwe=document.createElement('script');lw
 
 = Howto add this bookmarklet into your browser =
 
-As Google Code doesn't allow javascript linking, you'll have to create it yourself:
- # Right-click on your bookmark toolbar and select _create new bookmark_
- # Give your bookmarklet a name, and paste the Javascript code into the location field
- # Save it, and it's done!
+Simply bookmark the link below:
+<wiki:gadget url="http://lwe.googlecode.com/svn/trunk/misc/gadget.xml" height="30" border="0" />
+
 Now while you are browsing a website you'd like to edit, simply click on your bookmarklet and let the magic go on!
