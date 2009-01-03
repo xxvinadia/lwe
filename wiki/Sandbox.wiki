@@ -1,0 +1,8 @@
+#summary Project's sandbox test page
+#labels Featured
+
+== Sandbox ==
+
+lwe can be directly tested in the sandbox area below:
+
+<wiki:gadget url="http://lwe.googlecode.com/svn/trunk/misc/gadget_sandbox_test.xml" height="440" width="800" border="2" />
