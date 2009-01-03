@@ -1,4 +1,7 @@
-= TODO=
+#summary Project TODO
+#labels Featured
+
+= TODO =
 
  * Find and tag non-tagged text elements
  * Fix the inline and block textarea editing
