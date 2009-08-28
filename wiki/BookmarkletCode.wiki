@@ -8,7 +8,7 @@ A bookmarklet is an applet, a small computer application, stored as the URL of a
 = Bookmarklet code =
 
 {{{
-javascript:if(lwe){lwe.stop()}else{var%20lwe=document.createElement('script');lwe.setAttribute('src','http://tr.im/lwe-trunk');document.body.appendChild(lwe)};void(0);
+javascript:if(lwe){lwe.stop()}else{var%20lwe=document.createElement('script');lwe.setAttribute('src','http://tr.im/lwe_trunk');document.body.appendChild(lwe)};void(0);
 }}}
 
 = Howto add this bookmarklet into your browser =
