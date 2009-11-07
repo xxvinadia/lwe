@@ -1,5 +1,4 @@
 #summary Project bookmarklet code
-#labels Featured
 
 = What's a bookmarklet? =
 
