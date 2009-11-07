@@ -1,5 +1,4 @@
 #summary Project's sandbox test page
-#labels Featured
 
 == Sandbox ==
 
