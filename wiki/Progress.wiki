@@ -1,5 +1,4 @@
 #summary Project progression
-#labels Featured
 
 = Progress =
 
