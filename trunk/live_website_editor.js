@@ -996,11 +996,11 @@ var lwe = {
 	start_when_ready: function() {
 		console.group('lwe > start_when_ready');
 		// because we moved to http://github.com/arnaud/lwe
-		$.jGrowl("We have moved!<br/><b>Updated your bookmarklet</b> now with this brand new one:</br> <a style='color: white; text-decoration: underline; font-weight: bold' href=\"javascript:if(lwe){lwe.stop()}else{var%20lwe=document.createElement('script');lwe.setAttribute('src','http://tr.im/lwe_latest');document.body.appendChild(lwe)};void(0);\">Live Website Editor</a>", { header: 'Live Website Editor', sticky: true });
 		with(lwe) {
   		panel.f.create_main_panel();
   		switch_mode('editing');
 	  }
+		$.jGrowl("We have moved!<br/><b>Updated your bookmarklet</b> now with this brand new one:</br> <a style='color: white; text-decoration: underline; font-weight: bold' href=\"javascript:if(lwe){lwe.stop()}else{var%20lwe=document.createElement('script');lwe.setAttribute('src','http://tr.im/lwe_latest');document.body.appendChild(lwe)};void(0);\">Live Website Editor</a>", { header: 'Live Website Editor', sticky: true });
 		console.groupEnd();
 	},
 	/**
